@@ -1,0 +1,24 @@
+/****************************
+style.css
+PURPOSE: Styling the HTML personal site page
+AUTHOR: Lavon Marquise Edwards
+DATE: December 12 2020
+NOTES: 
+****************************/
+
+body {
+  background-color:  #54e346;
+}
+
+hr {
+  border-color: #fffaa4;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 10px;
+  height: 2px;
+  width: 100px;
+}
+
+h1, h3 {
+    color: #153e90;
+}
